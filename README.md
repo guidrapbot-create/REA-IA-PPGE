@@ -1,4 +1,10 @@
-# REA-IA-PPGE
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PUCPRbras%C3%A3o.png" alt="REA" width="150"/>
+</p>
+
+
+# Explorando o potencial da Inteligência Artificial (IA) com a ferramenta SciSpace
+## Programa de Pós-Graduação em Educação (PPGE) da PUCPR
 
 
 📘 Descrição
