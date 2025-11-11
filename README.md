@@ -1,6 +1,7 @@
-<p align="center"; padding:20px; border-radius:12px;">
+<p align="center" style="padding:20px; border-radius:12px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PUCPRbras%C3%A3o.png" alt="PUCPR" width="150"/>
 </p>
+
 
 <h2 align="center" style="color:#800000; font-family:Arial, sans-serif; padding:15px; border-radius:10px;">
   <b>Explorando o potencial da Inteligência Artificial (IA) com a ferramenta SciSpace</b>
