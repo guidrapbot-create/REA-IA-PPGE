@@ -1,4 +1,4 @@
-<p align="center" style="background-color:#fdf6f6; padding:20px; border-radius:12px;">
+<p align="center"; padding:20px; border-radius:12px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PUCPRbras%C3%A3o.png" alt="PUCPR" width="150"/>
 </p>
 
