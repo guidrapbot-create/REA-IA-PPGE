@@ -14,8 +14,31 @@
   <b>Disciplina:</b> Tecnologias Digitais e Recursos Educacionais do Programa de Pós-Graduação em Educação (PPGE) — PUCPR<br>
   <b>Professora:</b> Raquel Pasternak Glitz Kowalski
 </p>
-
 <hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
+
+## 🪶 Licenciamento e uso aberto
+
+<div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
+
+Todo o conteúdo deste curso está disponível de forma **aberta e gratuita**, sob a licença **Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)**.  
+Isso significa que você tem liberdade para:
+
+- 📤 **Compartilhar** — copiar e redistribuir o material em qualquer formato e para qualquer finalidade, inclusive comercial;  
+- 🎨 **Adaptar** — remixar, transformar e criar a partir deste material, também para qualquer finalidade, inclusive comercial.  
+
+Ao fazer isso, é essencial **manter a atribuição de autoria** do material original e **indicar quaisquer modificações** realizadas, especialmente se gerar novos conteúdos a partir deste REA.  
+
+Essa licença reflete o espírito de **colaboração, transparência e democratização do conhecimento** que fundamenta os Recursos Educacionais Abertos.
+
+</div>
+
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+    <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Licença Creative Commons BY 4.0" />
+  </a>
+</p>
+<hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
+
 
 ## 🌱 Introdução
 Vivemos um tempo em que a inteligência artificial atravessa o cotidiano da pesquisa e da docência.  
@@ -71,18 +94,48 @@ Estudantes de **licenciatura**, **professores em formação** e **educadores** i
 3. **Reflexão**  
    O que aprendeu com o uso do SciSpace e como a ferramenta pode (ou não) ser integrada às práticas pedagógicas?
 
+
+## 📚 Referências e leituras sugeridas
+- FREIRE, Paulo. *Pedagogia da Autonomia: saberes necessários à prática educativa.*  
+- UNESCO. *Inteligência Artificial e Educação: desafios e oportunidades.* Paris: UNESCO, 2021.
+
+
+<hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
+
+## 🧑‍💻 Sobre Recurso Educacional Aberto (REA)
+<div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
+
+Um **Recurso Educacional Aberto (REA)** é qualquer material de ensino, aprendizagem ou pesquisa disponível em **domínio público** ou sob uma **licença aberta**, permitindo que seja **usado, adaptado e compartilhado** livremente, desde que mantida a atribuição de autoria.  
+
+Os REAs fortalecem uma cultura de **colaboração, inovação e democratização do conhecimento**, incentivando práticas pedagógicas mais abertas, inclusivas e criativas.  
+
+</div>
+
+---
+
+## 🎬 Por que usar ou criar REA?
+<div align="center">
+
+[![Vídeo sobre REA](https://img.youtube.com/vi/QnanHVzm2eA/0.jpg)](https://www.youtube.com/watch?v=QnanHVzm2eA)
+
+</div>
+
+<p align="center" style="font-size:14px; color:#555; font-family:Arial, sans-serif;">
+  <i>Assista ao vídeo acima para compreender o conceito de REA e suas implicações no uso de tecnologias educacionais.</i>
+</p>
+
+<div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
+
+O vídeo apresenta os princípios e a importância dos **Recursos Educacionais Abertos**. Explora como esses materiais favorecem o **acesso aberto ao conhecimento**, estimulam a **autoria compartilhada** e permitem a **adaptação dos conteúdos** às necessidades de professores e estudantes. No contexto deste REA, o vídeo ajuda a compreender **por que criar e compartilhar recursos abertos** e **como integrar ferramentas como o SciSpace de forma ética e pedagógica**.
+
+</div>
+
 ---
 
 ## 🔍 Licença
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)  
 Este material é disponibilizado sob a **Licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)**.  
 Você pode **copiar, distribuir, remixar e adaptar** este conteúdo, desde que **cite a autoria** e mantenha a **mesma licença**.
-
----
-
-## 📚 Referências e leituras sugeridas
-- FREIRE, Paulo. *Pedagogia da Autonomia: saberes necessários à prática educativa.*  
-- UNESCO. *Inteligência Artificial e Educação: desafios e oportunidades.* Paris: UNESCO, 2021.  
 
 ---
 
