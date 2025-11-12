@@ -6,14 +6,16 @@
   <b>Explorando o potencial da Inteligência Artificial (IA) com a ferramenta SciSpace</b>
 </h2>
 
-<p align="center" style="font-size:20px; font-family:Arial, sans-serif; color:#333;">
+<p align="center" style="font-size:25px; font-family:Arial, sans-serif; color:#333;">
   <i>Produzido por Guiullianna Drapcynski Bot e Ana Carolina Ingeinczaki</i>
 </p>
 
 <p align="center" style="font-size:18px; font-family:Arial, sans-serif; color:#555;">
-  <b>Disciplina:</b> Tecnologias Digitais e Recursos Educacionais do Programa de Pós-Graduação em Educação (PPGE) — PUCPR<br>
-  <b>Professora:</b> Raquel Pasternak Glitz Kowalski
+  <b>Disciplina:</b> Tecnologias Digitais e Recursos Educacionais do Programa de Pós-Graduação em Educação (PPGE) <br>
+  <span style="font-size:25px;"><b>Professora:</b> Raquel Pasternak Glitz Kowalski</span>
 </p>
+
+
 
 <hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
 
