@@ -22,53 +22,16 @@
 
 <h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">👋 Boas-vindas!</h2>
 
-Seja bem-vindo(a) ao curso **Explorando o potencial da IA com a ferramenta SciSpace!**
-
-Este material foi desenvolvido especialmente para **alunos de licenciatura** interessados em aprofundar seus conhecimentos sobre **inteligência artificial** e compreender de que forma ela pode ser utilizada na **pesquisa acadêmica de maneira crítica e ética**.
-
-Este curso foi idealizado e produzido para a disciplina **Tecnologias Digitais e Recursos Educacionais**, do **PPGE/PUCPR**, e tem como objetivo apresentar, de forma acessível e reflexiva, como as ferramentas de IA podem **apoiar a pesquisa, a escrita acadêmica e a formação de futuros docentes**.
-
-Ao longo do curso, você explorará o **SciSpace**, uma plataforma que utiliza IA para **auxiliar na leitura e compreensão de artigos científicos**. Mais do que aprender a utilizar a ferramenta, este curso convida você a **refletir sobre o papel da IA na educação**, considerando seus potenciais e limitações.
-
-### 🎯 Durante o curso, você será convidado(a) a:
-- Conhecer as principais funcionalidades do SciSpace;  
-- Realizar atividades práticas com base em artigos científicos;  
-- Refletir sobre o uso ético e pedagógico da IA;  
-- Construir novas formas de pensar a docência na era digital.  
-
----
-
-✨ Esperamos que este espaço **desperte sua curiosidade, incentive o pensamento crítico e fortaleça sua autonomia como futuro(a) educador(a)**.  
-💬 *Vamos aprender, experimentar e refletir juntos sobre o que significa ensinar e aprender com a inteligência artificial!*
-
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🪶 Licenciamento e uso aberto</h2>
-
 <div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
-  <p>Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob a licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0).  
-  Isso significa que você tem liberdade para:</p>
+  <p>Todo o conteúdo deste curso está disponível de forma aberta e gratuita, sob a licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0). Isso significa que você tem liberdade para:</p>
+  <!-- ... outros parágrafos ... -->
 
-  <p>📥 <strong>Reter (Retain)</strong> — direito de <strong>fazer e possuir cópias</strong> dos recursos, armazenando e controlando versões locais para uso próprio;</p>
-  <p>🔄 <strong>Reutilizar (Reuse)</strong> — direito de <strong>usar o conteúdo</strong> em diferentes contextos, como aulas, pesquisas, sites ou apresentações;</p>
-  <p>🪄 <strong>Rever (Revise)</strong> — direito de <strong>adaptar, ajustar, modificar ou alterar</strong> o conteúdo para adequá-lo a novas realidades, públicos ou finalidades;</p>
-  <p>🎨 <strong>Remixar (Remix)</strong> — direito de <strong>combinar</strong> o conteúdo original ou revisado com outros materiais abertos para criar um novo recurso;</p>
-  <p>📤 <strong>Redistribuir (Redistribute)</strong> — direito de <strong>compartilhar cópias</strong> do conteúdo original, revisado e/ou remixado, fortalecendo a circulação do conhecimento.</p>
-  <p>💡 Esses princípios garantem que os REA sejam instrumentos de transformação, ampliando o alcance, a colaboração e a liberdade na produção do saber.</p>
-  <p>💡 Esses princípios reforçam o caráter colaborativo e aberto dos REA, permitindo que o conhecimento circule e seja aprimorado continuamente.</p>
-  <p>Ao fazer isso, é essencial <b>manter a atribuição de autoria</b> do material original e <b>indicar quaisquer modificações</b> realizadas, especialmente se gerar novos conteúdos a partir deste REA.</p>
-  <p>Essa licença reflete o espírito de <b>colaboração, transparência e democratização do conhecimento</b> que fundamenta os Recursos Educacionais Abertos.</p>
+  <p align="center">
+    <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+      <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Licença Creative Commons BY 4.0" />
+    </a>
+  </p>
 </div>
-<p align="center">
-  <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Licença Creative Commons BY 4.0" />
-<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
-
-</p>
-
-<hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
-
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🌱 Introdução</h2>
-<p>Vivemos um tempo em que a inteligência artificial atravessa o cotidiano da pesquisa e da docência. Este Recurso Educacional Aberto nasce do desejo de <b>compreender, junto aos futuros professores</b>, como pensar e agir criticamente diante dessas tecnologias, reconhecendo nelas tanto possibilidades quanto desafios éticos, criativos e formativos.</p>
-
-<hr>
 
 <h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">📘 Descrição</h2>
 <p>Este Recurso Educacional Aberto (REA) foi desenvolvido e pensado para que alunos de <b>licenciatura</b> possam utilizar de forma crítica e ética ferramentas de IA.  
