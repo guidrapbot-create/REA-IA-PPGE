@@ -57,12 +57,9 @@ Ao longo do curso, você explorará o **SciSpace**, uma plataforma que utiliza I
   <p>Ao fazer isso, é essencial <b>manter a atribuição de autoria</b> do material original e <b>indicar quaisquer modificações</b> realizadas, especialmente se gerar novos conteúdos a partir deste REA.</p>
   <p>Essa licença reflete o espírito de <b>colaboração, transparência e democratização do conhecimento</b> que fundamenta os Recursos Educacionais Abertos.</p>
 </div>
-<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
 <p align="center">
   <img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Licença Creative Commons BY 4.0" />
-
-  
-  </a>
+<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
 </p>
 
 <hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
