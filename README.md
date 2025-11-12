@@ -62,70 +62,6 @@
 
 <hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
 
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🌱 Introdução</h2>
-
-<p>Vivemos um tempo em que a inteligência artificial atravessa o cotidiano da pesquisa e da docência. Este Recurso Educacional Aberto nasce do desejo de <strong>compreender, junto aos futuros professores</strong>, como pensar e agir criticamente diante dessas tecnologias, reconhecendo nelas tanto possibilidades quanto desafios éticos, criativos e formativos.</p>
-
-<hr>
-
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">📘 Descrição</h2>
-<p>Este Recurso Educacional Aberto (REA) foi desenvolvido e pensado para que alunos de <b>licenciatura</b> possam utilizar de forma crítica e ética ferramentas de IA.  
-Atividade desenvolvida durante a disciplina <i>Tecnologias Digitais e Recursos Educacionais</i>, do <b>Programa de Pós-Graduação em Educação (PPGE)</b> da <b>Pontifícia Universidade Católica do Paraná - PUCPR</b>. Apresenta o uso da ferramenta <b>SciSpace</b> e suas aplicações na pesquisa e escrita acadêmica, incentivando a <b>reflexão sobre o uso ético, crítico e pedagógico da inteligência artificial</b> na formação docente.</p>
-
-<hr>
-
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🧭 Justificativa</h2>
-<p>A presença da IA na educação é um fenômeno irreversível, exigindo uma formação docente pautada na <b>autonomia, ética e criticidade</b>. Este REA busca contribuir com práticas educativas que compreendam a tecnologia como <b>mediação e não substituição</b>, estimulando o pensamento crítico e responsabilidade no uso de ferramentas de IA.</p>
-
-<hr>
-
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🎯 Objetivos</h2>
-<ul>
-  <li>Compreender o funcionamento e as potencialidades do <b>SciSpace</b>;</li>
-  <li>Desenvolver uma <b>postura crítica</b> diante do uso de tecnologias generativas;</li>
-  <li>Promover <b>práticas pedagógicas</b> apoiadas em IA.</li>
-</ul>
-
-<hr>
-
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🧩 Público-alvo</h2>
-<p>Estudantes de <b>licenciatura</b>, <b>professores em formação</b> e <b>educadores</b> interessados em compreender como a inteligência artificial pode contribuir na pesquisa, escrita e ensino de maneira <b>ética e crítica</b>.</p>
-
-<hr>
-
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">💡 Como utilizar</h2>
-<ul>
-  <li>Acesse os materiais disponíveis neste repositório;</li>
-  <li>Explore a ferramenta <b>SciSpace</b> e realize as atividades propostas;</li>
-  <li>Compartilhe e adapte este material conforme suas <b>necessidades educativas</b>.</li>
-</ul>
-
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🧭 Estrutura do REA</h2>
-<p>📂 <b>/materiais</b> — textos, tutoriais e exemplos de uso do SciSpace<br>
-🧠 <b>/reflexoes</b> — discussões e estudos sobre ética e IA na educação<br>
-📝 <b>/atividades</b> — propostas práticas para sala de aula e formação docente</p>
-
-<hr>
-
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🧮 Atividades sugeridas</h2>
-<ol>
-  <li><b>Exploração inicial:</b> Acesse o site <a href="https://scispace.com/">SciSpace</a> e teste suas principais funcionalidades.  
-  Reflita sobre como a ferramenta apoia (ou não) o processo de escrita acadêmica.</li>
-  <li><b>Discussão:</b> Qual o papel da IA no processo de autoria e formação docente?  
-  É possível “ensinar com” e não apenas “sobre” a IA?</li>
-  <li><b>Reflexão:</b> O que aprendeu com o uso do SciSpace e como a ferramenta pode (ou não) ser integrada às práticas pedagógicas?</li>
-</ol>
-
-<hr>
-
-<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">📚 Referências e leituras sugeridas</h2>
-<ul>
-  <li>FREIRE, Paulo. <i>Pedagogia da Autonomia: saberes necessários à prática educativa.</i></li>
-  <li>UNESCO. <i>Inteligência Artificial e Educação: desafios e oportunidades.</i> Paris: UNESCO, 2021.</li>
-</ul>
-
-<hr>
-
 <h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🧑‍💻 Sobre Recurso Educacional Aberto (REA)</h2>
 <div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
   <p>Um <b>Recurso Educacional Aberto (REA)</b> é qualquer material de ensino, aprendizagem ou pesquisa disponível em <b>domínio público</b> ou sob uma <b>licença aberta</b>, permitindo que seja <b>usado, adaptado e compartilhado</b> livremente, desde que mantida a atribuição de autoria.</p>
@@ -135,6 +71,7 @@ Atividade desenvolvida durante a disciplina <i>Tecnologias Digitais e Recursos E
 <hr>
 
 <h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">🎬 Por que usar ou criar REA?</h2>
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=QnanHVzm2eA" target="_blank">
     <img src="https://img.youtube.com/vi/QnanHVzm2eA/0.jpg" alt="Vídeo sobre REA" width="480"/>
@@ -147,7 +84,12 @@ Atividade desenvolvida durante a disciplina <i>Tecnologias Digitais e Recursos E
 
 <div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
   <p>O vídeo apresenta os princípios e a importância dos <b>Recursos Educacionais Abertos</b>. Explora como esses materiais favorecem o <b>acesso aberto ao conhecimento</b>, estimulam a <b>autoria compartilhada</b> e permitem a <b>adaptação dos conteúdos</b> às necessidades de professores e estudantes. No contexto deste REA, o vídeo ajuda a compreender <b>por que criar e compartilhar recursos abertos</b> e <b>como integrar ferramentas como o SciSpace de forma ética e pedagógica</b>.</p>
+
+  <p style="font-size:12px; color:#555; margin-top:10px;">
+    <b>Referência:</b> Vital, Marcos Vinícius Carneiro. <i>Curso aberto - REA e licenças Creative Commons.</i> 2025. Disponível em <a href="https://marcosvital.github.io/Curso-REA/" target="_blank">https://marcosvital.github.io/Curso-REA/</a>, DOI: 10.5281/zenodo.16808794
+  </p>
 </div>
+
 
 <h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">📄 Inteligência Artificial na Educação Básica</h2>
 
@@ -160,9 +102,16 @@ O **Centro de Inovação para a Educação Brasileira (CIEB)** publicou, em 2024
 </p>
 
 <div style="font-size:14px; color:#555; font-family:Arial, sans-serif; text-align:center; margin-top:10px;">
-  <i>Fonte: CENTRO DE INOVAÇÃO PARA A EDUCAÇÃO BRASILEIRA (CIEB), 2024.<br>
+  <i>Referência: CENTRO DE INOVAÇÃO PARA A EDUCAÇÃO BRASILEIRA (CIEB), 2024.<br>
   Nota Técnica #21 — Inteligência artificial na educação básica: novas aplicações e tendências para o futuro.</i>
 </div>
+
+<hr>
+<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">📚 Leituras sugeridas</h2>
+<ul>
+  <li>FREIRE, Paulo. <i>Pedagogia da Autonomia: saberes necessários à prática educativa.</i></li>
+  <li>UNESCO. <i>Inteligência Artificial e Educação: desafios e oportunidades.</i> Paris: UNESCO, 2021.</li>
+</ul>
 
 <hr>
 
@@ -172,7 +121,6 @@ Este material é disponibilizado sob a <b>Licença Creative Commons Atribuição
 Você pode <b>copiar, distribuir, remixar e adaptar</b> este conteúdo, desde que <b>cite a autoria</b> e mantenha a <b>mesma licença</b>.</p>
 
 <hr>
-
 <p align="center" style="font-size:12px; color:#888; background-color:#f9f9f9; padding:10px; border-radius:10px;">
   © 2025 — Guiullianna Drapcynski Bot & Ana Carolina Ingeinczaki
 </p>
