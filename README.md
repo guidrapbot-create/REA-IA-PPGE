@@ -18,6 +18,32 @@
 
 <hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
 
+
+<h2 style="background-color: #800000; color: white; padding: 10px; border-radius: 5px;">👋 Boas-vindas!</h2>
+
+Seja bem-vindo(a) ao curso **Explorando o potencial da IA com a ferramenta SciSpace!**
+
+Este material foi desenvolvido especialmente para **alunos de licenciatura** interessados em aprofundar seus conhecimentos sobre **inteligência artificial** e compreender de que forma ela pode ser utilizada na **pesquisa acadêmica de maneira crítica e ética**.
+
+Este curso foi idealizado e produzido para a disciplina **Tecnologias Digitais e Recursos Educacionais**, do **PPGE/PUCPR**, e tem como objetivo apresentar, de forma acessível e reflexiva, como as ferramentas de IA podem **apoiar a pesquisa, a escrita acadêmica e a formação de futuros docentes**.
+
+Ao longo do curso, você explorará o **SciSpace**, uma plataforma que utiliza IA para **auxiliar na leitura e compreensão de artigos científicos**. Mais do que aprender a utilizar a ferramenta, este curso convida você a **refletir sobre o papel da IA na educação**, considerando seus potenciais e limitações.
+
+### 🎯 Durante o curso, você será convidado(a) a:
+- Conhecer as principais funcionalidades do SciSpace;  
+- Realizar atividades práticas com base em artigos científicos;  
+- Refletir sobre o uso ético e pedagógico da IA;  
+- Construir novas formas de pensar a docência na era digital.  
+
+---
+
+✨ Esperamos que este espaço **desperte sua curiosidade, incentive o pensamento crítico e fortaleça sua autonomia como futuro(a) educador(a)**.
+💬 *Vamos aprender, experimentar e refletir juntos sobre o que significa ensinar e aprender com a inteligência artificial!*
+
+
+
+
+
 <h2>🪶 Licenciamento e uso aberto</h2>
 
 <div style="background-color:#faf8f6; padding:20px; border-left:6px solid #800000; border-radius:8px;">
@@ -44,20 +70,18 @@
 <hr style="border: 0; height: 1px; background: #e0b0b0; width: 60%; margin: 20px auto; border-radius: 2px;">
 
 <h2>🌱 Introdução</h2>
-<p>Vivemos um tempo em que a inteligência artificial atravessa o cotidiano da pesquisa e da docência.  
-Este Recurso Educacional Aberto nasce do desejo de <b>compreender, junto aos futuros professores</b>, como pensar e agir criticamente diante dessas tecnologias, reconhecendo nelas tanto possibilidades quanto desafios éticos, criativos e formativos.</p>
+<p>Vivemos um tempo em que a inteligência artificial atravessa o cotidiano da pesquisa e da docência. Este Recurso Educacional Aberto nasce do desejo de <b>compreender, junto aos futuros professores</b>, como pensar e agir criticamente diante dessas tecnologias, reconhecendo nelas tanto possibilidades quanto desafios éticos, criativos e formativos.</p>
 
 <hr>
 
 <h2>📘 Descrição</h2>
 <p>Este Recurso Educacional Aberto (REA) foi desenvolvido e pensado para que alunos de <b>licenciatura</b> possam utilizar de forma crítica e ética ferramentas de IA.  
-Atividade desenvolvida durante a disciplina <i>Tecnologias Digitais e Recursos Educacionais</i>, do <b>Programa de Pós-Graduação em Educação (PPGE)</b> da <b>PUCPR</b>.  
-Apresenta o uso da ferramenta <b>SciSpace</b> e suas aplicações na pesquisa e escrita acadêmica, incentivando a <b>reflexão sobre o uso ético, crítico e pedagógico da inteligência artificial</b> na formação docente.</p>
+Atividade desenvolvida durante a disciplina <i>Tecnologias Digitais e Recursos Educacionais</i>, do <b>Programa de Pós-Graduação em Educação (PPGE)</b> da <b>Pontifícia Universidade Católica do Paraná - PUCPR</b>.Apresenta o uso da ferramenta <b>SciSpace</b> e suas aplicações na pesquisa e escrita acadêmica, incentivando a <b>reflexão sobre o uso ético, crítico e pedagógico da inteligência artificial</b> na formação docente.</p>
 
 <hr>
 
-<h2>🧭 Justificativa pedagógica</h2>
-<p>A presença da IA na educação é um fenômeno irreversível, exigindo uma formação docente pautada na <b>autonomia, ética e criticidade</b>. Este REA busca contribuir com práticas educativas que compreendam a tecnologia como <b>mediação e não substituição</b>, estimulando o pensamento reflexivo sobre autoria, responsabilidade e criatividade no uso de ferramentas de IA.</p>
+<h2>🧭 Justificativa</h2>
+<p>A presença da IA na educação é um fenômeno irreversível, exigindo uma formação docente pautada na <b>autonomia, ética e criticidade</b>. Este REA busca contribuir com práticas educativas que compreendam a tecnologia como <b>mediação e não substituição</b>, estimulando o pensamento critico e responsabilidade no uso de ferramentas de IA.</p>
 
 <hr>
 
